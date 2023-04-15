@@ -5,12 +5,72 @@
     <link>https://example.com/tag/academic/</link>
       <atom:link href="https://example.com/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>https://example.com/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>2-8 of April report</title>
+      <link>https://example.com/post/week-2-8-april/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week-2-8-april/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This week I:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Attended a couple of interesting lectures&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participated in Open Doors Day&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modified my website and did lab09&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About LaTeX</title>
+      <link>https://example.com/post/latex/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/latex/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;latex&#34;&gt;LaTeX&lt;/h1&gt;
+&lt;p&gt;LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation. LaTeX is the de facto standard for the communication and publication of scientific documents. LaTeX is available as free software.&lt;/p&gt;
+&lt;p&gt;LaTeX is not a word processor! Instead, LaTeX encourages authors not to worry too much about the appearance of their documents but to concentrate on getting the right content.&lt;/p&gt;
+&lt;h1 id=&#34;latex-features&#34;&gt;LaTeX Features&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Typesetting journal articles, technical reports, books, and slide presentations.&lt;/li&gt;
+&lt;li&gt;Control over large documents containing sectioning, cross-references, tables and figures.&lt;/li&gt;
+&lt;li&gt;Typesetting of complex mathematical formulas.&lt;/li&gt;
+&lt;li&gt;Advanced typesetting of mathematics with AMS-LaTeX.&lt;/li&gt;
+&lt;li&gt;Automatic generation of bibliographies and indexes.&lt;/li&gt;
+&lt;li&gt;Multi-lingual typesetting.&lt;/li&gt;
+&lt;li&gt;Inclusion of artwork, and process or spot colour.&lt;/li&gt;
+&lt;li&gt;Using PostScript or Metafont fonts.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About Git and version control</title>
+      <link>https://example.com/post/jupyter/</link>
+      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/jupyter/</guid>
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;
+&lt;p&gt;Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).&lt;/p&gt;
+&lt;h2 id=&#34;version-control&#34;&gt;Version control&lt;/h2&gt;
+&lt;p&gt;In computer software engineering, revision control is any kind of practice that tracks and provides control over changes to source code. Software developers sometimes use revision control software to maintain documentation and configuration files as well as source code.&lt;/p&gt;
+&lt;p&gt;As teams design, develop and deploy software, it is common for multiple versions of the same software to be deployed in different sites and for the software&amp;rsquo;s developers to be working simultaneously on updates. Bugs or features of the software are often only present in certain versions (because of the fixing of some problems and the introduction of others as the program develops). Therefore, for the purposes of locating and fixing bugs, it is vitally important to be able to retrieve and run different versions of the software to determine in which version(s) the problem occurs. It may also be necessary to develop two versions of the software concurrently: for instance, where one version has bugs fixed, but no new features (branch), while the other version is where new features are worked on (trunk).&lt;/p&gt;
+&lt;p&gt;At the simplest level, developers could simply retain multiple copies of the different versions of the program, and label them appropriately. This simple approach has been used in many large software projects. While this method can work, it is inefficient as many near-identical copies of the program have to be maintained. This requires a lot of self-discipline on the part of developers and often leads to mistakes. Since the code base is the same, it also requires granting read-write-execute permission to a set of developers, and this adds the pressure of someone managing permissions so that the code base is not compromised, which adds more complexity. Consequently, systems to automate some or all of the revision control process have been developed. This ensures that the majority of management of version control steps is hidden behind the scenes.&lt;/p&gt;
+&lt;p&gt;Moreover, in software development, legal and business practice, and other environments, it has become increasingly common for a single document or snippet of code to be edited by a team, the members of which may be geographically dispersed and may pursue different and even contrary interests. Sophisticated revision control that tracks and accounts for ownership of changes to documents and code may be extremely helpful or even indispensable in such situations.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>First week report</title>

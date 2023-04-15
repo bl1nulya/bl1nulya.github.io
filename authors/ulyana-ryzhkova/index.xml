@@ -5,7 +5,7 @@
     <link>https://example.com/authors/ulyana-ryzhkova/</link>
       <atom:link href="https://example.com/authors/ulyana-ryzhkova/index.xml" rel="self" type="application/rss+xml" />
     <description>Ulyana Ryzhkova</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Ulyana Ryzhkova</title>
@@ -13,11 +13,56 @@
     </image>
     
     <item>
+      <title>2-8 of April report</title>
+      <link>https://example.com/post/week-2-8-april/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week-2-8-april/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;This week I:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Attended a couple of interesting lectures&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participated in Open Doors Day&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modified my website and did lab09&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About LaTeX</title>
+      <link>https://example.com/post/latex/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/latex/</guid>
+      <description>&lt;hr&gt;
+&lt;h1 id=&#34;latex&#34;&gt;LaTeX&lt;/h1&gt;
+&lt;p&gt;LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation. LaTeX is the de facto standard for the communication and publication of scientific documents. LaTeX is available as free software.&lt;/p&gt;
+&lt;p&gt;LaTeX is not a word processor! Instead, LaTeX encourages authors not to worry too much about the appearance of their documents but to concentrate on getting the right content.&lt;/p&gt;
+&lt;h1 id=&#34;latex-features&#34;&gt;LaTeX Features&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Typesetting journal articles, technical reports, books, and slide presentations.&lt;/li&gt;
+&lt;li&gt;Control over large documents containing sectioning, cross-references, tables and figures.&lt;/li&gt;
+&lt;li&gt;Typesetting of complex mathematical formulas.&lt;/li&gt;
+&lt;li&gt;Advanced typesetting of mathematics with AMS-LaTeX.&lt;/li&gt;
+&lt;li&gt;Automatic generation of bibliographies and indexes.&lt;/li&gt;
+&lt;li&gt;Multi-lingual typesetting.&lt;/li&gt;
+&lt;li&gt;Inclusion of artwork, and process or spot colour.&lt;/li&gt;
+&lt;li&gt;Using PostScript or Metafont fonts.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About Git and version control</title>
       <link>https://example.com/post/jupyter/</link>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/jupyter/</guid>
-      <description>&lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;
+      <description>&lt;hr&gt;
+&lt;h2 id=&#34;what-is-git&#34;&gt;What is Git?&lt;/h2&gt;
 &lt;p&gt;Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).&lt;/p&gt;
 &lt;h2 id=&#34;version-control&#34;&gt;Version control&lt;/h2&gt;
 &lt;p&gt;In computer software engineering, revision control is any kind of practice that tracks and provides control over changes to source code. Software developers sometimes use revision control software to maintain documentation and configuration files as well as source code.&lt;/p&gt;
